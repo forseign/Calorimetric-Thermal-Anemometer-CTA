@@ -91,7 +91,7 @@ Read it as: |      Tool / Technology     |                   Application        
 - |          LTspice           |                Circuit simulation              |
 - |        Arduino Mega        |     Embedded control and data acquisition      |
 - |           Python           | Experimental data processing and visualisation |
-- |          SPI / I²C         |              Peripheral communication          |
+- |          SPI         |              Peripheral communication          |
 
 ## 9. Project Status
 
