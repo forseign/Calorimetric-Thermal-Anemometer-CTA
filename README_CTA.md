@@ -101,6 +101,5 @@ The repository is maintained as a continuously updated record of the design iter
 
 ## 10. Author
 
-Arsh Malik 
-M.Sc. in EEE, Sensor Systems Engineering  
+Arsh Malik | M.Sc. in EEE, Sensor Systems Engineering  
 Imperial College London
