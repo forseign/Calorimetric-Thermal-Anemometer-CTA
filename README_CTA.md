@@ -22,12 +22,12 @@ The system incorporates:
 ## 3. System Architecture
 
 |        Subsystem       |                      Function                      |
--------------------------------------------------------------------------------
-|     Heating element    |            Generates the thermal field             |
-|   Temperature sensors  | Measure upstream and downstream thermal variations |
-| Heater control circuit |            Regulates heater operation              |
-|   Signal conditioning  |    Interfaces with temperature sensing elements    |
-|     Data acquisition   |      Acquires and processes sensor measurements    |
+
+- |     Heating element    |            Generates the thermal field             |
+- |   Temperature sensors  | Measure upstream and downstream thermal variations |
+- | Heater control circuit |            Regulates heater operation              |
+- |   Signal conditioning  |    Interfaces with temperature sensing elements    |
+- |     Data acquisition   |      Acquires and processes sensor measurements    |
 
 ## 4. Hardware Development
 
