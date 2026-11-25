@@ -21,7 +21,7 @@ The system incorporates:
 
 ## 3. System Architecture
 
-|        Subsystem       |                      Function                      |
+Read it as: |        Subsystem       |                      Function                      |
 
 - |     Heating element    |            Generates the thermal field             |
 - |   Temperature sensors  | Measure upstream and downstream thermal variations |
@@ -85,13 +85,13 @@ It includes:
 
 ## 8. Tools and Technologies
 
-|      Tool / Technology     |                   Application                  |
--------------------------------------------------------------------------------
-|       Altium Designer      |         Schematic capture and PCB design       |
-|          LTspice           |                Circuit simulation              |
-|        Arduino Mega        |     Embedded control and data acquisition      |
-|           Python           | Experimental data processing and visualisation |
-|          SPI / I²C         |              Peripheral communication          |
+Read it as: |      Tool / Technology     |                   Application                  |
+
+- |       Altium Designer      |         Schematic capture and PCB design       |
+- |          LTspice           |                Circuit simulation              |
+- |        Arduino Mega        |     Embedded control and data acquisition      |
+- |           Python           | Experimental data processing and visualisation |
+- |          SPI / I²C         |              Peripheral communication          |
 
 ## 9. Project Status
 
